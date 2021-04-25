@@ -1,6 +1,6 @@
 int speakerPin = 26;      // speaker on digital pin 26
 float frequency = 440;    // in hertz. 440Hz is the note A4
-float duration = 2;         // in seconds
+float duration = 2;       // in seconds
 
 // Period is the inverse of frequency, measured in seconds. 
 // To obtain microseconds we multiply by 1 million. 
